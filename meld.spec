@@ -1,7 +1,7 @@
 Summary:	GNOME 2 visual diff and merge tool
 Name:		meld
-Version:	1.8.4
-Release:	2
+Version:	3.16.1
+Release:	1
 Source0:	http://ftp.gnome.org/pub/GNOME/sources/%name/%{name}-%{version}.tar.xz
 License:	GPLv2+
 URL:		http://meld.sourceforge.net/
